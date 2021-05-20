@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MISA.CukCuk.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MISA.CukCuk.Core": "1.0.0"
+        },
+        "runtime": {
+          "MISA.CukCuk.Infrastructure.dll": {}
+        }
+      },
+      "MISA.CukCuk.Core/1.0.0": {
+        "runtime": {
+          "MISA.CukCuk.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MISA.CukCuk.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MISA.CukCuk.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.CukCuk.Infrastructure.deps.json
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.CukCuk.Infrastructure.dll
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\ref\MISA.CukCuk.Infrastructure.dll
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.CukCuk.Infrastructure.pdb
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.CukCuk.Core.dll
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.CukCuk.Core.pdb
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.CukCuk.Infrastructure.csprojAssemblyReference.cache
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.CukCuk.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.CukCuk.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.CukCuk.Infrastructure.AssemblyInfo.cs
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.CukCuk.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.CukCuk.Infrastructure.csproj.CopyComplete
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.CukCuk.Infrastructure.dll
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\ref\MISA.CukCuk.Infrastructure.dll
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.CukCuk.Infrastructure.pdb

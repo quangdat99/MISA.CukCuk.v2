@@ -1,0 +1,12 @@
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Core\bin\Debug\net5.0\MISA.CukCuk.Core.deps.json
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Core\bin\Debug\net5.0\MISA.CukCuk.Core.dll
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Core\bin\Debug\net5.0\ref\MISA.CukCuk.Core.dll
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Core\bin\Debug\net5.0\MISA.CukCuk.Core.pdb
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Core\obj\Debug\net5.0\MISA.CukCuk.Core.csprojAssemblyReference.cache
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Core\obj\Debug\net5.0\MISA.CukCuk.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Core\obj\Debug\net5.0\MISA.CukCuk.Core.AssemblyInfoInputs.cache
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Core\obj\Debug\net5.0\MISA.CukCuk.Core.AssemblyInfo.cs
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Core\obj\Debug\net5.0\MISA.CukCuk.Core.csproj.CoreCompileInputs.cache
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Core\obj\Debug\net5.0\MISA.CukCuk.Core.dll
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Core\obj\Debug\net5.0\ref\MISA.CukCuk.Core.dll
+C:\Users\dqdat1\Desktop\MISA.CukCuk\MISA.CukCuk.Core\obj\Debug\net5.0\MISA.CukCuk.Core.pdb
